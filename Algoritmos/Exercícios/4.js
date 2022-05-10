@@ -1,6 +1,3 @@
-// Calcule a idade de uma pessoa de acordo com a data de nascimento dela. Você deve solicitar dia, mês e ano
-// Fiz em inglês para praticar :)
-
 function age(birthdayYear, birthdayMonth, birthdayDay) {
     let d = new Date
     

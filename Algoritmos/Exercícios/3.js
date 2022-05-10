@@ -1,5 +1,3 @@
-// Coloque, num algoritmo, um processo de chamada em sala de aula.
-
 let listaDeAlunos = ['Pedro', 'Paulo', 'Ana', 'Julia', 'Marcos', 'Antônio', 'Carlos']
 let alunosPresentes = ['Pedro', 'Paulo', 'Julia', 'Carlos']
 

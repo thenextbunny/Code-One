@@ -1,4 +1,3 @@
-// Peça um número e valide se este número é divisível por 5.
 let numero = 4 // let numero = prompt('Digite um número')
 divisao = numero % 5
 
