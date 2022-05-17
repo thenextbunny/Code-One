@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class aula8p2 {
+public class Aula82 {
     public static void main(String[] ags) {
         String[] letras = {"A", "B", "C", "D", "E"};
 

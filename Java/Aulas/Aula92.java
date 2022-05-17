@@ -1,4 +1,4 @@
-public class aula9p2 {
+public class Aula92 {
     public static void main(String[] ags) {
         int resultado = soma(2, 3);
         System.out.println(resultado);

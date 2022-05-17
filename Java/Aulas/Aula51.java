@@ -1,4 +1,4 @@
-public class aula5p1 {
+public class Aula51 {
     public static void main(String[] args) {
         String nome = "José";
         System.out.println(nome.toUpperCase());

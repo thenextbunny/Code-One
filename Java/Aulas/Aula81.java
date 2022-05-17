@@ -1,4 +1,4 @@
-public class aula8p1 {
+public class Aula81 {
     public static void main(String[] ags) {
         int[] numeros = new int[5];
         numeros[0] = 1;

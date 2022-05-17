@@ -1,8 +1,13 @@
-## Java
-<p>Aulas introdutórias sobre Java.</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/99208505/167461622-38805368-76dc-4c58-b4c6-59f1e2bac7b6.png" width="100%" alt="Logo Code One">
+  
+  ## Aulas introdutórias sobre Java
+</div>
 
-<h3>Conteúdos estudados</h3>
-<ol>
+<div>
+
+  ### Conteúdos estudados
+  <ol>
     <li>Introdução ao Java</li>
     <li>Setup</li>
     <li>Variáveis</li>
@@ -12,4 +17,5 @@
     <li>Laços numéricos ou estruturas de repetição</li>
     <li>Vetores</li>
     <li>Métodos</li>
-</ol>
+  </ol>
+</div>

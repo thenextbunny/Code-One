@@ -1,4 +1,4 @@
-public class aula7p1 {
+public class Aula71 {
     public static void main(String[] args) {
         for(int i = 1; i <= 10; i++) {
             System.out.println(i);

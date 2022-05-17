@@ -1,4 +1,4 @@
-public class aula4p3 {
+public class Aula43 {
     public static void main(String[] args) {
         int nota = 100;
         String graduacao;

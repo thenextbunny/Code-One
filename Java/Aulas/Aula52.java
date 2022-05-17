@@ -3,7 +3,7 @@ import java.time.format.TextStyle;
 import java.util.Locale;
 import java.time.LocalDateTime;
 
-public class aula5p2 {
+public class Aula52 {
     public static void main(String[] args) {
         // Olá, {nome}. Hoje é {dia da semana}, {saudacao}
         String nome = "Lucas";

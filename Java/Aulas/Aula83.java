@@ -1,4 +1,4 @@
-public class aula8p3 {
+public class Aula83 {
     public static void main(String[] ags) {
         int [] numeros = {9, 10, 12, 25, 20};
         int maior = numeros[0];
