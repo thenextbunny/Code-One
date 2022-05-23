@@ -1,12 +1,9 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/99208505/167461622-38805368-76dc-4c58-b4c6-59f1e2bac7b6.png" width="100%" alt="Logo Code One">
-  
-  ## Aulas introdutórias sobre Java
+  <h2>Java</h2>
 </div>
-
 <div>
-
-  ### Conteúdos estudados
+  <h3>Conteúdos estudados durante as aulas</h3>
   <ol>
     <li>Introdução ao Java</li>
     <li>Setup</li>
